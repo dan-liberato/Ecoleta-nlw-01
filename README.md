@@ -1,6 +1,8 @@
-<h1 align="center"> ♻️ Ecoleta </h1>
+<h1 align="center"> ♻️ &middot;  Ecoleta </h1>
 
 <p align="center">
+
+<img alt="Repo size" src="https://img.shields.io/github/repo-size/dan-liberato/Ecoleta-nlw-01.svg" />
 
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/dan-liberato/Ecoleta-nlw-01.svg">
 
