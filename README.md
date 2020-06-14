@@ -13,11 +13,11 @@
 ![Screenshot](Ecoleta.png)
 
 
-## :computer:   Projeto
+## :computer: Projeto
 <p>O Ecoleta é um projeto criado para ajudar pessoas a encontrarem pontos de coleta de resíduos para reciclagem</p>
 
 
-## :rocket:   Tecnologias
+## :rocket: Tecnologias
 Desenvolvido com:
 
 - [Node.js](https://nodejs.org/en/)
@@ -26,7 +26,7 @@ Desenvolvido com:
 - [Expo](https://expo.io/)
 
 
-## 	:pencil:   Add
+## :pencil: Add
 Adicionei mais algumas funções:
 
 - Dark Mode Web e Mobile
