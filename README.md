@@ -10,6 +10,9 @@
 ![Screenshot](Ecoleta.png)
 
 ## :computer: &middot; Projeto
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fc908b6502954e52ba46473b85ddc83e)](https://app.codacy.com/manual/danielrcliberato/Ecoleta-nlw-01?utm_source=github.com&utm_medium=referral&utm_content=dan-liberato/Ecoleta-nlw-01&utm_campaign=Badge_Grade_Dashboard)
+
 <p>O Ecoleta é um projeto criado para ajudar pessoas a encontrarem pontos de coleta de resíduos para reciclagem</p>
 
 ## :rocket: &middot; Tecnologias
