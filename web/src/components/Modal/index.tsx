@@ -1,6 +1,5 @@
 import React from 'react'
-
-import './styles.css'
+import { Container, Content, Img, Title } from './styles'
 import CheckIcon from '../../assets/check.svg'
 import ErrorIcon from '../../assets/erro.png'
 
@@ -16,12 +15,12 @@ const Modal = ({visible, message, icon}: ModalProps) => {
     return (
         <>
             {visible === false ? '' : (
-                <div className="modal">
-                    <div className="content">
-                        <img src={imageIcon} alt="Cadastro concluído"/>
-                        <h1>{message}</h1>
-                    </div>
-                </div>
+                <Container className="modal">
+                    <Content className="content">
+                        <Img src={imageIcon} alt="Cadastro concluído"/>
+                        <Title>{message}</Title>
+                    </Content>
+                </Container>
             )}
         </>
     )
