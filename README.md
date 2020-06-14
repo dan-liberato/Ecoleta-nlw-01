@@ -15,10 +15,10 @@
 ## :rocket: &middot; Tecnologias
 Desenvolvido com:
 
-- [Node.js](https://nodejs.org/en/)
-- [React](https://reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [Expo](https://expo.io/)
+-  [Node.js](https://nodejs.org/en/)
+-  [React](https://reactjs.org/)
+-  [React Native](https://reactnative.dev/)
+-  [Expo](https://expo.io/)
 
 
 ## :pencil: &middot; Add
