@@ -4,7 +4,7 @@ import axios from 'axios'
 import { LeafletMouseEvent } from 'leaflet'
 import api from '../../services/api'
 import Dropzone from '../../components/Dropzone'
-import Modal from '../../components/modal'
+import Modal from '../../components/Modal'
 import { Map, TileLayer, Marker } from "react-leaflet";
 import {
 	Container,
