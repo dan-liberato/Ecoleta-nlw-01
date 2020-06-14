@@ -1,0 +1,10 @@
+# dependencies
+/node_modules
+uploads/*
+!uploads/.gitkeep
+
+*.sqlite
+
+yarn-debug.log*
+yarn-error.log*
+yarn.lock
